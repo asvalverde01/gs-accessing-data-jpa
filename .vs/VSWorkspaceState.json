@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\initial",
+    "\\initial\\src",
+    "\\initial\\src\\main",
+    "\\initial\\src\\main\\java",
+    "\\initial\\src\\main\\java\\com",
+    "\\initial\\src\\main\\java\\com\\example",
+    "\\initial\\src\\main\\java\\com\\example\\accessingdatajpa",
+    "\\initial\\src\\main\\resources",
+    "\\initial\\src\\test\\java",
+    "\\initial\\src\\test\\java\\com"
+  ],
+  "SelectedNode": "\\initial\\src\\main\\java\\com\\example\\accessingdatajpa\\BookingRepository.java",
+  "PreviewInSolutionExplorer": false
+}
