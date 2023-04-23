@@ -8,10 +8,11 @@
     "\\initial\\src\\main\\java\\com",
     "\\initial\\src\\main\\java\\com\\example",
     "\\initial\\src\\main\\java\\com\\example\\accessingdatajpa",
-    "\\initial\\src\\main\\resources",
+    "\\initial\\src\\test",
     "\\initial\\src\\test\\java",
-    "\\initial\\src\\test\\java\\com"
+    "\\initial\\src\\test\\java\\com",
+    "\\initial\\src\\test\\java\\com\\example",
+    "\\initial\\src\\test\\java\\com\\example\\accessingdatajpa"
   ],
-  "SelectedNode": "\\initial\\src\\main\\java\\com\\example\\accessingdatajpa\\BookingRepository.java",
   "PreviewInSolutionExplorer": false
 }

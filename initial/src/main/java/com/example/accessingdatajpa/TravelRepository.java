@@ -3,7 +3,11 @@ package com.example.accessingdatajpa;
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.rest.core.annotation.RepositoryRestResource;
+import org.springframework.data.rest.core.annotation.RestResource;
 
+
+@RepositoryRestResource(collectionResourceRel = "travels", path = "travels")
 public interface TravelRepository extends CrudRepository<Travel, Long> {
     
     // Find all travels
