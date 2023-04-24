@@ -7,7 +7,7 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import org.springframework.data.rest.core.annotation.RestResource;
 
-@RepositoryRestResource(collectionResourceRel = "people", path = "people")
+@RepositoryRestResource(collectionResourceRel = "customers", path = "customers")
 public interface CustomerRepository extends CrudRepository<Customer, Long> {
 
     @RestResource(path = "by-name", rel = "by-name")

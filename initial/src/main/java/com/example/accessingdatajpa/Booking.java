@@ -35,4 +35,5 @@ public class Booking {
     public Customer getCustomer() {
         return customer;
     }
+
 }
